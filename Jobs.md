@@ -6,13 +6,13 @@ We want Dorkodu to be the foundation that will change the destiny of human civil
 
 ### Why Dorkodu?
 
-Dorkodu is a startup based in <u>Istanbul</u>. Created by a team of passionate entrepreneurs, Dorkodu has the potential to help billions of people across the globe to discover & acquire life changing ideas. We are working on some products to pursue our mission. We started off as a small team, but now we're growing rapidly. We're focused on just being humble, lean, smart and quick with our hacker mentality.
+Dorkodu is a startup based in <u>Istanbul</u>. We believe that Dorkodu has the potential to help billions of people across the globe to get wiser. We create awesome products pursue our mission. We started off as a small team, but now we're growing rapidly.
 
 > At Dorkodu, our strategy is simple. We hire the **most knowledgable and passionate** people we can find.
 
-- Anyone who joins now can see the future before even others can dream about it.
+- **<u>Anyone who joins now can see the future before even others can dream about it.</u>**
 
-- We place great emphasis on maintaining a humble and intellectually honest environment where everyone's opinion is respected and where people's contributions are acknowledged and rewarded.
+- We place great emphasis on maintaining a humble and intellectually honest environment where everyone's opinion is respected and people's contributions are acknowledged and rewarded.
 
 ### Our Work Culture
 
@@ -26,13 +26,13 @@ We know we won't always get it right, but we are not afraid to learn from experi
 
 #### Why would you do it?
 
-- Because you need a <u>purpose</u> in your life. **Because you want do something that matters!**
+- Because you need a <u>purpose</u> in your life. **<u>Because you want do something that matters!</u>**
   - Working a 9-5 job, in a large team, detached by the effects of your efforts sounds awful to you.
-- Because you understand that <u>assuming responsibility is the only way to grow and develop yourself</u>. 
-  - Muscles don’t grow while you watch sitcoms and chill on your sofa, but through the pain and sweat in the gym. The same is true for your career and your life.
-- Because you will be part of an awesome team of diverse top-performing individuals. 
+- Because you understand that <u>**assuming responsibility is the only way to grow and develop yourself**</u>. 
+  - You don’t grow while you watch sitcoms and chill on your sofa. This is true for both your career and your life.
+- Because you will <u>**be a part of an awesome team of diverse top-performing individuals**</u>. 
   - You understand that an entourage of self-driven people is the best gift for your future.
-- Because you know to <u>never surrender an opportunity for short-term security</u>.
+- Because you know to <u>**never surrender an opportunity for short-term security**</u>.
   - You can always get a cozy secure job, but an opportunity to join the revolution of our time is rare.
 
 ### What we are looking for…
@@ -40,37 +40,39 @@ We know we won't always get it right, but we are not afraid to learn from experi
 These are the type of jobs where you are pushed in cold water and you have to learn to swim by yourself. 
 Your personality and your traits matter as much as your tech expertise.
 
-- We are looking for an **independent**, **responsible person**. Mainly because there is no time for micro-management. 
+- We are looking for an **independent**, **responsible person**.
   - We expect you to be able to carry your own weight and be a reliable partner.
+  - Mainly because there is no time for micro-management. 
 - We are looking for a **fast learner**.
-  - We may need to use technologies that you never used before. 
-    That should not scare, but excite you. 
+  - We may need to use methods or technologies that you never used before. 
+    That should not scare, but excite you.
   - In most cases we may not even know what we need and you may have to propose something.
-- We are looking for you to get **stuff done**.
+- We are looking for you to **get stuff done**.
   - We work in weekly sprints because we believe in consistent delivery over big lengthy releases.
-- We want you to be **proactive**. We appreciate conviction way more than consensus. 
-  - Words are nice, opinions are cute … but proactivity in action is golden.
-- We want you to be an **over-communicator**.
-  - People here work remote and it’s up to you to show your work, explain your ideas or highlight problems
-- We want you to be **a partner for your colleagues in the squad**. 
-  - Help or lead the planning process etc. 
-    Provide guidance and help your colleagues when they get stuck.
+- We want you to be **proactive**.
+  -  We appreciate conviction way more than consensus. 
+  - Words are nice, opinions are cute… but proactivity in action is golden.
+- We want you to be a **good communicator**.
+  - We work remote and it’s up to you to show your work, explain your ideas or highlight problems.
 
 ### We are a small team, so…
 
-- **Passion for the problem is our fuel.**
+- #### **Passion for the problem is our *nitro*.**
+  
   Every day is a struggle, but we keep an eye on the prize. We are passionate about helping people learn and improve themselves and that’s what keeps us going.
-- **We find a way or a make a way.**
+- #### **We find a way or a make a way.**
+  
   We focus on difficult problems and need to solve them, for the future of mankind.
-- **We thrive in uncertainty, as we have more questions than answers.** 
+- #### **We thrive in uncertainty, as we have more questions than answers.**
+  
   Not problems, but opportunities to learn new things.
 
 ### Benefits
 
 - **Be an early "workmate".**
   - Join our high-growth startup to learn new skills and fast track your career growth.
-  - **Grow to be a company leader in the future.** 
-    Get management opportunities and run your team, even your project.
+  - **Grow to be a company leader in the future.**
+    Get management opportunities and run your own team, even your own project.
 - **You can make your own schedule.**
   - *(As long as things happen on time and on spec.)*
 - **Remote-first:** We don’t care when and where you work from.
@@ -78,7 +80,7 @@ Your personality and your traits matter as much as your tech expertise.
 
 ### Our tech stack
 
-We love open source. If we need a tool, first we make a research, see what's been done in the open source world. Then tailor the existing solutions and create our own solution. 
+We love open source. If we need a tool, first we make a research, see what's been done in the open source world. Then tailor the existing solutions and create our own tools, methods and technologies.
 
 #### This sounds hard at first, but it works!
 
@@ -95,7 +97,7 @@ We love open source. If we need a tool, first we make a research, see what's bee
 
 - **JavaScript** — Lucid, Luckt, Sage.
 - **PWA** technology.
-  - For cross-platform support. We want to provide the same experience for everyone.
+  - We want to provide the same experience for everyone. This is the reason we chose to go PWA-only for cross-platform support. We don't want to release mobile apps to stores, because we don't want our product to be controlled by technopolies.
 
 <hr>
 
@@ -107,9 +109,9 @@ We love open source. If we need a tool, first we make a research, see what's bee
 
 You will take charge of the product planning and execution. You will be working closely with the founders to define and express the vision through the products we put out. You will collaborate with UX to craft a kick-ass user experience across mediums and with engineers to ship it. You will measure our success and failures.
 
-You will represent our users and do everything in your power to help them become successful. We are here to help you make them rock-stars.
+You will represent our users and do everything in your power to help them become successful. We are here to help you make them rock-stars
 
-#### **That means :**
+#### **That means…**
 
 - You will build and maintain a prioritized roadmap. You will be transparent throughout the process and collaborate with all stakeholders to build consensus.
 - You will need to make lots of decisions. We expect you to come up with the right point of view, even if that’s unpopular. Your role is to help us build consensus not be ruled by it. We appreciate conviction.
@@ -221,9 +223,9 @@ You will oversee all performance marketing activities and will work with the res
 - You’ll have the opportunity to work with our internal team of designers and product people for ad creatives, but having a full-stack orientation and knowledge of design will work great to optimize the way you execute campaigns.
   - Generating ad creatives on your own and being able to fully deliver a paid campaign from start to finish is something we value.
 
-### Skills…
+### Our Expectations
 
-- Experience with paid campaigns in a variety of channels and products like Google (UAC included), Facebook, Instagram, Apple, Twitter, Quora, Reddit and most likely dozens of others, as you will try to always find new channels that have a great acquisition cost and good user quality to propel us forward.
+- Familiarity with paid campaigns in a variety of channels and products like Google (UAC included), Facebook, Instagram, Apple, Twitter, Quora, Reddit and most likely dozens of others, as you will try to always find new channels that have a great acquisition cost and good user quality to propel us forward.
 - Experience with remarketing and retargeting techniques and products (Facebook & Google Dynamic Ads for example).
 - Experience with design products for ad creatives.
 - Knowledge of Amplitude, Branch, Google Analytics and in general, the mobile paid advertising ecosystem (such as app campaigns, deeplinks, attribution).
@@ -271,85 +273,3 @@ We are looking for a **backend developer** with a passion for product and delive
 - Experience with both **SQL and NoSQL databases**.
 - **Good communicator** - this position is fully remote so communication is paramount.
 - Be **a partner for your colleagues** in the dev team: help or lead the planning process, code reviews, commits etc. Provide guidance and help your colleagues when they get stuck.
-
-<hr>
-
-## Growth Hacker
-
-*Worldwide* • Growth Team
-
-### About Us
-
-Deepstash is one of the hottest startups right now. We help millions of people across the globe discover life-changing ideas. We develop mobile and web apps and work on becoming one of the forces for good in this world.
-
-Deepstash improves your life with actionable short ideas on productivity, lifestyle, business and more. We make it easy to find, collect and organize ideas you're interested in. Our product can be found on both the Apple and Play store and on the web. We are a content-based consumer (B2C) product that is currently on a 100% free business model (subscription-free and ad-free).
-
-We are a small but Agile (with a capital A) team. We move fast and try different things all the time. Your job is to make sure that there is a method to the chaos and that we don’t ignore the basics.
-
-Based in Bucharest, Romania, Deepstash is founded by experienced entrepreneurs and backed by leading investors and advisors such as Connect Ventures, Gapminder, Shakil Khan (ex-Spotify), Dennis Yang (Ex-Udemy) and Des Traynor (Intercom).
-
-#### What will you be doing?
-
-We are looking for a self-driven SEO specialist and growth hacker to build our organic search acquisition engine and scale Deepstash's web app.
-
-You will oversee all SEO activities for our web app. You will work with the rest of the team (Content, Product, Growth, Engineering) and maximize conversion rates and the volume of inbound organic traffic from Google (and other search engines) through on-page and off-page techniques as well through creative special projects.
-
-#### This means…
-
-- Develop a web growth model that we can guide our efforts by and come up with your growth strategy based on these proposed goals and forecasts.
-- Perform keyword and competitive research based on objectives to optimize existing content and uncover new opportunities. We have over 50k ideas and thousands of articles you can work with.
-- Work on the base architecture and structure of our website and make sure that we have a launchpad ready for a rocket launch.
-- Create the link building strategy and execute on it.
-- Work with the rest of the team on new product releases and make sure that everything we release is up-to-spec (SEO-wise).
-
-### Skills
-
-- Have a good understanding of tools like Google Search Console, Ahrefs, Google Analytics and Amplitude.
-- Have a good understanding of the technical aspects of our web app. Having a technical background and getting the inner workings of how the website and code works can definitely help.
-- Have at least a basic understanding of ASO (App Store Optimization) in such a way that you can work with relevant teams on growth opportunities and joint-efforts.
-- You have good instincts, but you don’t rely on them. You test. And then test again. Data is your daily food and you rely on it to make smarter decisions.
-- We are looking for an independent, responsible person. Mainly because there is no time for micro-management. We expect you to be able to carry your own weight and be a reliable partner.
-- Over-communicator. Some people may work remotely and it’s up to you to show your work, explain your ideas or highlight problems.
-- We want you to be proactive. Words are nice, opinions are cute … but proactivity in action is golden.
-- You have a strong business mindset and you're happy to work in a fully English speaking environment.
-- Plus: You are using our product :-)
-
-<hr>
-
-## Tech Lead
-
-*Worldwide* • Dev Team
-
-### About Us
-
-Deepstash is one of the hottest startups right now. Created by a team of experienced entrepreneurs, Deepstash helps millions of people across the globe to discover life changing ideas. We develop mobile and web apps and work on becoming one of the forces for good in this world.
-
-#### We are a small team so:
-
-- **Passion for the problem is our fuel.** Every day is a struggle, but we keep an eye on the prize. We are passionate about helping people learn and improve themselves and that’s what keeps us going.
-- **We find a way or a make a way.** We have problems to solve and making up excuses doesn’t help us.
-- **We thrive in uncertainty, as we have more questions than answers.** Not problems, but opportunities to learn new things.
-
-Our tech stack is made of:
-
-- Django (Python), PostgreSQL, Amazon Web Services on the back end
-- React Native / React + Next.js on the front end
-
-### What we’re looking for?
-
-We are looking for a **tech lead** with a passion for product and delivery. This is the type of job where you are pushed in cold water and you have to learn to swim by yourself. Your personality and your traits matter as much as your tech expertise:
-
-- We are looking for an **independent**, **responsible person**. Mainly because there is no time for micro-management. We expect you to be able to carry your own weight and be a reliable partner.
-- We are looking for a **fast learner**. We may need to use technologies that you never used before. That should not scare, but excite you. In most cases we may not even know what we need and you may have to propose something.
-- We are looking for you to get **stuff done**. We work in weekly sprints because we believe in consistent delivery over big lengthy releases.
-- We want you to be **proactive**. We appreciate conviction way more than consensus. Words are nice, opinions are cute … but proactivity in action is golden.
-- We want you to be **a partner for your colleagues in the dev team**. Help or lead the planning process, code reviews, commits etc. Provide guidance and help your colleagues when they get stuck.
-- We want you to be an **over-communicator**. Some people may work remote and it’s up to you to show your work, explain your ideas or highlight problems.
-
-### Skills
-
-- Good understanding and experience of basic web building blocks HTML, JS, etc.
-- Experience with mobile development (native or hybrid)
-- Experience with interface building frameworks (React, Angular, Vue etc.)
-- Experience with web tech stacks (eg Rails, Django, CodeIgniter, etc.)
-- Experience with SQL and NoSQL databases (MySQL, MongoDB, ElasticSearch, etc.)

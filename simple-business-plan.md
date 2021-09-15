@@ -1,6 +1,6 @@
 # The Dorkodu Company
 
-August 2021
+September 2021
 
 - **`Web` :** [dorkodu.com](https://dorkodu.com)
 - **`Email` :** hey@dorkodu.com
@@ -35,6 +35,7 @@ This is the schema of responsibility in the Dorkodu organization.
   - CEO, CTO, COO, CFO, CPO…
   - Visionary, Leader, Strategist 
 - **Product Design & Engineering**
+  - Product Manager
   - Software Architect
   - Full-stack Developer
   - Designer
@@ -54,13 +55,13 @@ This is the schema of responsibility in the Dorkodu organization.
   - Technology
   - Research and Development
 
-##### `Kutluay Aciatre`
+##### `Kutluay Aciatrie`
 
 - **The Arbiter**
   - Diplomat
   - Bureaucrat
   - Negotiator
-  - Strategist & Tactics for the Monopoly Warfare
+  - Strategy & Tactics for the Market Warfare
 - **Business**
   - Sales
   - Operations
@@ -69,26 +70,58 @@ This is the schema of responsibility in the Dorkodu organization.
 
 ## Opportunity
 
-*Knowledge* is an abstract concept. We even can’t define what *knowledge* is, but we know its importance. As humans, we survived and our civilization thrived, because we transformed *data* into *useful, meaningful information* and applied it; which resulted in an enormous heritage of knowledge. 
+*Knowledge* is an abstract concept. We can’t define <u>"*what knowledge is*"</u>, but we know its importance. As humans, we survived and our civilization thrived, because we transformed *data* into *useful, meaningful information* and applied it; which resulted in an enormous heritage of knowledge.
 
 ### Problem
 
-**Knowledge production, representation, discovery, acquisition, spread is inefficient and ineffective.**
+#### Information creation, curation and consumption is broken.
 
-- We use mostly the Internet to exchange information for two decades. Web gives us a big opportunity of global connectivity but we still use documents to embed information into text; structure, store and share our knowledge. 
+**`Precursors` :** **Human Degrading** (Breakdown of sensemaking/choicemaking).
 
-  This is why it is still inefficient & ineffective to acquire knowledge from the web. 
+- We use mostly the Internet to exchange information for the last three decades. It gives us a big opportunity of global connectivity but we still use documents to embed information into text; structure, store and share our knowledge.
 
-  - The rise of app era (Web 2.0) only created a market for big data and surveillance which global technopolies dominate. There is no specific medium focused on knowledge.
+  **This is why it is still inefficient to acquire knowledge from the web.**
 
-- It is hard to evaluate information *— because it is an ambiguous concept.* We can't know whether a specific information is true, how much important, has a source or is related to another information.
+  - The rise of app era (Web 2.0) only created a market for **<u>surveillance & attention capitalism</u>** which global technopolies dominate.
+  - There is <u>no specific medium focused on knowledge</u>.
+
+- It is hard to evaluate information*—because it is an ambiguous concept.* We can't know whether a specific information is true, how much important it is and whether it has a source or if it is related to another information.
+
+##### Results
+
+- Digital addiction (social media, games etc.)
+  - Social isolation
+  - Individual/psychological problems (*worst case:* suicide)
+- Information overload
+  - Degrading choicemaking
+- Fake information
+  - Confirmation bias
+  - Breakdown of sensemaking
+- Desire for social validation
+  - 
+- Over-reacting / Extremism
+  - Outrage
+  - Polarization
+  - Conspiracy
+- Lack of trust
+  - Post-truth world
+
+
+
+#### Desire for social validation.
+
+
+
+#### Lack of trust.
+
+
 
 See [Appendix](#appendix), where we details about *the problem*.
 
 ### Solution
 
-- We will find a better way for knowledge representation and expression.
-- We will create a medium for social knowledge exchange, to test our methods and experiment on human
+- Find a better way for creation, curation and consumption of information.
+- Create a medium for social knowledge exchange, to test our methods and experiment on human psychology
 - We will create a universal knowledge resource that anyone can discover, acquire, and exchange true, useful and meaningful information.
   - Our most ambitious goal is to make this like a search engine where search results would be pure information pieces related to each other, gathered from the whole heritage of human knowledge, not web pages.
     - This requires a better way for knowledge representation/expression.
@@ -96,11 +129,13 @@ See [Appendix](#appendix), where we details about *the problem*.
 
 ### Outcome
 
+— *Work in progress*
+
 ### Target Market
 
-**`TAM` :** Everyone.
+**`TAM` :** Everyone
 
-> Because information is crucial and a desperate need for any human-being to help them continue their lives.
+> Because information is one of the most basic and desperate needs for humankind to help us continue our lives.
 
 [^TAM]: Total Available Market
 
@@ -108,7 +143,7 @@ See [Appendix](#appendix), where we details about *the problem*.
 
 [^SAM]: Segmented Available Market
 
-**`SOM` :** People who use social media to share what they know, or who like to consume "knowledgable" content.
+**`SOM` :** People who use 3rd party mediums (e.g. social media, search engines…) to consume "knowledgeable" content, curate what they think that matters and share what they know.
 
 [^SOM]: Share Of the Market
 
@@ -181,9 +216,11 @@ See [Appendix](#appendix), where we details about *the problem*.
     - has a source.
     - is related to another information in a definitive way.
 
+> *Information production rate of science* **>** *Knowledge acquisition rate of society*
+
 #### Knowledge Acquisition
 
-- It is inefficient to get information from the web.
+- It is **inefficient** to get information from the web.
   - Web is document based.
     - We express and preserve our knowledge, feelings and thoughts in the form of monolithic text documents. Even if this made a revolution and contributed to our civilization through thousands of years, it also brings many limitations.
   - Characteristics of web documents that we use for gathering information:
@@ -221,4 +258,3 @@ So we need to **<u>liberate the knowledge</u>**.
   - where people can acquire knowledge by exchanging information with each other.
   - specific for knowledge creation and consumption.
   - where people can express and exchange knowledge as collectively organized, interrelated information pieces.
-

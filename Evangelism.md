@@ -36,11 +36,11 @@ We believe that having access to better and quick information and putting it in 
 
 > **Knowledge is the new oil**. So having a tool that could keep you organized and give you access to information that would add leverage to everything that you’re doing on a daily basis is what is going to take you to the next level.
 
-There is a lot of beauty and value-added in having access to precise content because this is what improves our cognition. Wanderlyf manifests this by allowing users to quickly bring up on-screen ideas that they have stashed months ago and reconnect with the meaning of this idea. 
+There is a lot of beauty and value-added in having access to precise content because this is what improves our cognition. Wanderlyf manifests this by allowing users to quickly bring up on-screen ideas that they have stashed months ago and reconnect with the meaning of this idea.
 
-Oane highlights that the problem of information overload that Wanderlyf solves is felt at a more emotional level. “I think the people, who are embracing apps like ours, and services like ours, are people who are feeling overwhelmed, or are experiencing a fear of missing out. With all of this information popping up on Messenger, WhatsApp, and Slack, Wanderlyf offers a sort of meditative experience, compared to incumbent social networks,” Oane explains. 
+The problem of information overload that Wanderlyf solves is felt at a more emotional level. 
 
-
+> Wanderlyf offers a sort of meditative experience, compared to incumbent social networks. 
 
 ### Big picture insights on content consumption
 
@@ -48,13 +48,10 @@ The medium is the message. A lot of the types of information that we are being e
 
 We don't expect that in the future people will go back to reading large tomes in the libraries because our attention has already been changed fundamentally.
 
-
-
 <hr>
+We believe Wanderlyf can redress our current social-media malaise. Wanderlyf, which is founded in 2020, is a **"social knowledge medium focusing on content creation, curation and consumption"**. 
 
-## Interview: Vladimir Oane, co-founder of Wanderlyf
-
-The young Romanian entrepreneur Vladimir Oane believes his app Wanderlyf can redress our current social-media malaise. Wanderlyf, which Oane founded in 2019, is a ‘social network for content curation’ where ‘stashers’ can summarise key concepts from various sources on topics which interest them. Its website offers ‘career advice’, ‘practical knowledge’ and ‘insipiring [sic] quotes’. Oane believes it to be an example of a new kind of social media, centred around the discussion of ideas, which he solemnly terms the ‘Knowledge Discovery Network’.
+Where ‘stashers’ can summarise key concepts from various sources on topics which interest them. Its website offers ‘career advice’, ‘practical knowledge’ and ‘insipiring [sic] quotes’. Oane believes it to be an example of a new kind of social media, centred around the discussion of ideas, which he solemnly terms the ‘Knowledge Discovery Network’.
 
 Oane says that ‘current mainstream apps encourage showing off more than real connection’, and, more cryptically, that ‘traditional social media also optimises for reaction’. This may well be a reflection of our times. The focus on ‘superficial sharing’ and the current quality of conversation on social media all speak to the fact that we’re ‘in the early days of the internet and digital communication’.
 
