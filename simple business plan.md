@@ -1,4 +1,4 @@
-# The Dorkodu Company
+# Dorkodu
 
 September 2021
 
@@ -11,7 +11,7 @@ This is the “in a nutshell” version of Dorkodu’s business plan, intended t
 
 ### Mission
 
-> **Liberate the human knowledge; make it open, useful and meaningful for everyone.**
+> **Liberate the human with open, useful and meaningful technology.**
 
 ### Accountability
 
@@ -19,12 +19,12 @@ This is the schema of responsibility in the Dorkodu organization.
 
 #### Ownership
 
-| Owner                      | Share                                             |
-| -------------------------- | ------------------------------------------------- |
-| Doruk Eray                 | **95%**                                           |
-| Berk Cambaz                | **5%**                                            |
-| Reserved for Stock Options | **0% ~ 5%** *(will be taken from Doruk's share)*  |
-| Potential Investors        | **0% ~ 30%** *(will be taken from Doruk’s share)* |
+| Owner                      | Share        |
+| -------------------------- | ------------ |
+| Doruk Eray                 | **80%**      |
+| Berk Cambaz                | **20%**      |
+| Reserved for Stock Options | **0% ~ 10%** |
+| Potential Investors        | **0% ~ 30%** |
 
 #### People, Roles, Responsibility
 
@@ -50,23 +50,11 @@ This is the schema of responsibility in the Dorkodu organization.
 
 - **Software Engineering**
   - Full-stack Developer
+  - Head of Software
 - **Infrastructure**
-  - Software, Hardware
+  - Open Source
   - Technology
   - Research and Development
-
-##### `Kutluay Aciatrie`
-
-- **The Arbiter**
-  - Diplomat
-  - Bureaucrat
-  - Negotiator
-  - Strategy & Tactics for the Market Warfare
-- **Business**
-  - Sales
-  - Operations
-  - Communications
-  - Legal
 
 ## Opportunity
 
@@ -78,7 +66,10 @@ This is the schema of responsibility in the Dorkodu organization.
 
 **`Precursors` :** **Human Degrading** (Breakdown of sensemaking/choicemaking).
 
-- We use mostly the Internet to exchange information for the last three decades. It gives us a big opportunity of global connectivity but we still use documents to embed information into text; structure, store and share our knowledge.
+- We use mostly the Internet to exchange information for the last three decades. 
+
+  - (+) it gives us a big opportunity of global connectivity.
+  - (-) we still use *documents* to embed information into text; structure, store and share our knowledge.
 
   **This is why it is still inefficient to acquire knowledge from the web.**
 
