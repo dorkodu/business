@@ -7,11 +7,23 @@ liberate the human with meaningful technology.
 
 dorkodu is a humane technology company.
 
-we combine gamification, human-centric design with our superior technology and create products that 
+we combine gamification, human-centric design with our superior technology
+and create products that help people...
+
+- discover their genuine reason to live
+- find their unique spark & actualize themselves
+- remind them who they are, <u>humans</u>.
+- guide them to revolution for better.
 
 we are a community of artists, who doesn’t just paint, write poems or play notes. we create products and technology to make the world actually a better place. not just by communicating our opinions through our artwork, but we walk towards our utopia by doing something impactful and inspirational.
 
 **our purpose:** liberate the human with meaningful technology.
+
+everyone deserves to live a free, happy, healthy, wealthy life.
+
+- the purpose of existence for material things is to help human brilliance thrive.
+- technology exists to serve people a better life experience.
+- create a livable world for worthy life experiences -> we can build a heaven on earth
 
 > making money is not like we think it would be.
 > business kills the part of life that is essential, unique and brilliant;
@@ -62,3 +74,12 @@ we want none of it.
 
 ---
 
+## 💚 why
+
+words we love.
+
+- unique
+- authentic
+- humane
+- liberty
+- purpose
