@@ -3,7 +3,7 @@
 ## 🏡 home
 
 welcome!
-liberate the human with meaningful technology.
+we liberate the humankind with our meaningful technology.
 
 dorkodu is a humane technology company.
 

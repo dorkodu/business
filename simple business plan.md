@@ -21,8 +21,8 @@ This is the schema of responsibility in the Dorkodu organization.
 
 | Owner                      | Share        |
 | -------------------------- | ------------ |
-| Doruk Eray                 | **80%**      |
-| Berk Cambaz                | **20%**      |
+| Doruk Eray                 | **75%**      |
+| Berk Cambaz                | **25%**      |
 | Reserved for Stock Options | **0% ~ 10%** |
 | Potential Investors        | **0% ~ 30%** |
 

@@ -2,17 +2,21 @@
 
 ## About Us
 
-We want Dorkodu to be the foundation that will change the destiny of human civilization. So we need extraordinary, passionate and hard-working people to pursue this goal.
+We want Dorkodu to be the foundation that will change the destiny of human civilization. 
+So we need extraordinary, passionate and hard-working people to pursue this goal.
 
 ### Why Dorkodu?
 
-Dorkodu is a startup based in <u>Istanbul</u>. We believe that Dorkodu has the potential to help billions of people across the globe to get wiser. We create awesome products pursue our mission. We started off as a small team, but now we're growing rapidly.
+Dorkodu is a startup based in <u>Istanbul</u>. 
+We believe that Dorkodu has the potential to help billions of people across the globe to get wiser. 
+We create awesome products pursue our mission. 
+We started off as a small team, but now we're growing rapidly.
 
 > At Dorkodu, our strategy is simple. We hire the **most knowledgable and passionate** people we can find.
 
 - **<u>Anyone who joins now can see the future before even others can dream about it.</u>**
-
-- We place great emphasis on maintaining a humble and intellectually honest environment where everyone's opinion is respected and people's contributions are acknowledged and rewarded.
+- We place great emphasis on maintaining a humble and intellectually honest environment 
+  where everyone's opinion is respected and people's contributions are acknowledged and rewarded.
 
 ### Our Work Culture
 
@@ -80,7 +84,8 @@ Your personality and your traits matter as much as your tech expertise.
 
 ### Our tech stack
 
-We love open source. If we need a tool, first we make a research, see what's been done in the open source world. Then tailor the existing solutions and create our own tools, methods and technologies.
+We love open source. If we need a tool, first we make a research, see what's been done in the open source world. 
+Then tailor the existing solutions and create our own tools, methods and technologies.
 
 #### This sounds hard at first, but it works!
 
@@ -90,11 +95,13 @@ We love open source. If we need a tool, first we make a research, see what's bee
 
 #### Back-end
 
-- **PHP** — Superbook, Sage, Seekr
-- **MySQL, SQLite** — for the persistence layer.
+- **Node** — application, TypeScript 
+- **MySQL, SQLite** — persistence
+- **KeyDB** — caching
 
 #### Front-end
 
+- **React**
 - **JavaScript** — Lucid, Luckt, Sage.
 - **PWA** technology.
   - We want to provide the same experience for everyone. This is the reason we chose to go PWA-only for cross-platform support. We don't want to release mobile apps to stores, because we don't want our product to be controlled by technopolies.
