@@ -15,7 +15,7 @@ and create products that help people...
 - remind them who they are, <u>humans</u>.
 - guide them to revolution for better.
 
-we are a community of artists, who doesn’t just paint, write poems or play notes. we create products and technology to make the world actually a better place. not just by communicating our opinions through our artwork, but we walk towards our utopia by doing something impactful and inspirational.
+we are a community of artists, who doesn’t just paint, dance, write poems or play songs. we create products and technology to make the world actually a better place. not just by communicating our opinions through our artwork, but we walk towards our utopia by doing something impactful and inspirational.
 
 **our purpose:** liberate the human with meaningful technology.
 
@@ -76,10 +76,11 @@ we want none of it.
 
 ## 💚 why
 
-words we love.
+words we love, which we keep in mind doing inspiring work.
 
 - unique
-- authentic
 - humane
-- liberty
-- purpose
+- authentic
+- liberating
+- purposeful
+- enjoyable
