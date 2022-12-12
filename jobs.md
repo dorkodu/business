@@ -1,5 +1,49 @@
 # Jobs
 
+Take a look at our current job openings, sign up to be notified about future openings, and learn about what it’s like to work here.
+
+
+
+## Who We Are?
+
+### Who we are
+
+An eclectic crew united by intellectual curiosity and a commitment to creating truly great products.
+
+We’re a fully-remote company with no physical headquarters. We’re collectively spread out across dozens of cities on multiple continents. Everyone is free to live and work wherever they choose.
+
+We run the gamut in geography, lifestyle, and interest, but we’re all here to **do exceptional work, build wonderfully novel, straightforward products, experiment, pay attention to the details, treat people right, tell the truth, teach, give back, and keep learning.**
+
+For 23 years we’ve operated a no-nonsense, profitable business that makes more money than it spends. We’re fully independent, self-funded, and answer to no one but ourselves and our customers. In addition to Basecamp and HEY, we [invented the Ruby on Rails programming framework](https://rubyonrails.org/) and have [written a number of best-selling, influential books](https://37signals.com/books).
+
+
+
+### Who you are
+
+Rock star? Pass. Friendly and thoughtful? Let’s talk.
+
+In broad strokes, [Managers of One](https://signalvnoise.com/posts/1430-hire-managers-of-one) thrive at 37signals. If you consider yourself an eager learner, a conscientious worker, and a thoughtful, kind, supportive human, you might just have a home here.
+
+We don’t place independent value on where you come from, where you live, where you worked before, where you went to school, if you graduated or dropped out, or how well you did or didn’t do. We care about who you are today, how you’ll be tomorrow, and what you’re able to do now.
+
+
+
+### What it’s like to work here
+
+A calm, low-distraction environment where you can do your best work.
+
+We work hard to make sure every employee is given the freedom, tools, trust, and support to do the best work of their careers. That’s why so many people who work at 37signals stay at 37signals.
+
+We respect everyone’s right to participate in political expression and activism, but we avoid having political debates on our internal communication systems. 37signals as a company also does not weigh in on politics publicly, outside of topics directly related to our business. You should be at peace with both of these stances.
+
+We value a calm company and deliberate, concerted effort. You’ll have fewer meetings, hardly any email, and far fewer interruptions than you’re used to. 8-hour days and 40-hour weeks are plenty of time to do great work, so that’s all we expect.
+
+It’ll take some getting used to if you’ve been immersed in ASAP culture, but after a while you’ll wonder how you worked any other way.
+
+We work in small, independent teams, typically on a [6 week cycle](https://m.signalvnoise.com/how-we-set-up-our-work-cbce3d3d9cae#.r49l8znvx). Everyone at 37signals participates in [Everyone On Support](https://signalvnoise.com/posts/3676-everyone-on-support) every few months, and twice a year we all get together in Chicago to work and play together. [Read our employee handbook](https://basecamp.com/handbook) for more details on what it’s like to work at 37signals. Make sure you check out the [benefits and perks](https://basecamp.com/handbook/07-benefits-and-perks). Spoiler; *they’re great*.
+
+We look forward to getting to know you. Thanks for checking us out.
+
 ## About Us
 
 We want Dorkodu to be the foundation that will change the destiny of human civilization. 

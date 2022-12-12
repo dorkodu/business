@@ -48,7 +48,7 @@ all we need is that pure, geniune white light and a prism.
 that prism, is technology. just a tool that helped human civilization dawn.
 we will give you that.
 and if you can remember who you are,
-we can together turn this dark, void, senseless scene,
+we can together turn this dark, void, senseless scene
 into a marvelous rainbow.
 
 ---
@@ -84,3 +84,4 @@ words we love, which we keep in mind doing inspiring work.
 - liberating
 - purposeful
 - enjoyable
+
